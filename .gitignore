@@ -4,6 +4,9 @@
 # Vue.js
 /vue-client/node_modules/
 /vue-client/dist/
+
+
+# IDE
 .idea
 .vscode
 *.suo
@@ -12,6 +15,8 @@
 *.sln
 
 
+# CSS Pre-processor
+config.codekit3
 
 
 # Logs
